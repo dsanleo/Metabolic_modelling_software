@@ -3,8 +3,8 @@ Lista de herramientas interesantes para el modelado metabólico
 
 
 ## Frameworks
-- Cobra toolkit 
-- Cobrapy
+- Cobra toolbox: https://opencobra.github.io/cobratoolbox/stable/
+- Cobrapy: https://cobrapy.readthedocs.io/en/latest/
 
 ## Generación de modelos por homología
   - Raven 2 : https://github.com/SysBioChalmers/RAVEN --> Framework , requiere MATLAB 2016 o más nuevo
