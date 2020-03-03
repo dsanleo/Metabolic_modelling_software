@@ -31,8 +31,12 @@ Lista de herramientas interesantes para el modelado metabólico
 - Cytoscape + Pluggin: https://apps.cytoscape.org/apps/with_tag/pathwaydatabase
 - KBase: https://kbase.us -- online
 
-# Testeo de modelos
+## Testeo de modelos
 - Memote: https://memote.io/
+
+## Consorcios
+- https://github.com/beatrizgj/FLYCOP
+
 ## Otras herramientas
 - Pan genome analysis: http://sanger-pathogens.github.io/Roary/
 - Annotation: https://github.com/tseemann/prokka
