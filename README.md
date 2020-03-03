@@ -27,10 +27,24 @@ Lista de herramientas interesantes para el modelado metabólico
 - iMet: https://github.com/rmohamadi/iMet-Samples --> merge metabolic networks
 - MOST: http://most.ccib.rutgers.edu/index.html
 - Pathway tools: http://bioinformatics.ai.sri.com/ptools/ptools-overview.html
+- CellDesigner: http://www.celldesigner.org/
+- Cytoscape + Pluggin: https://apps.cytoscape.org/apps/with_tag/pathwaydatabase
+- KBase: https://kbase.us -- online
 
-    
+# Testeo de modelos
+- Memote: https://memote.io/
 ## Otras herramientas
 - Pan genome analysis: http://sanger-pathogens.github.io/Roary/
 - Annotation: https://github.com/tseemann/prokka
 - Descargar genomas: https://github.com/kblin/ncbi-genome-download
+
+# Bases de datos
+- MetaCyc: https://metacyc.org/
+- EcoCyc: https://ecocyc.org/
+- BIGG: http://bigg.ucsd.edu/
+- KEGG: https://www.genome.jp/kegg/
+- Reactome: https://reactome.org/
+- BioModels: https://www.ebi.ac.uk/biomodels/
+- Wikipathway:https://www.wikipathways.org/index.php/WikiPathways
+- PANTHER: http://www.pantherdb.org/pathway/
 
